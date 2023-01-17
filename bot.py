@@ -14,7 +14,7 @@ driver.get('https://pejuangkasino02.com/game/crash')
 thread = threading.Thread()
 
 hp = "83193733233"
-password = "gxv277dt18"
+password = "pass"
 set = "1,05"
 
 driver.maximize_window()
